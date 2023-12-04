@@ -4,17 +4,17 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:19494",
-      "sslPort": 44368
+      "applicationUrl": "http://localhost:26445",
+      "sslPort": 44372
     }
   },
   "profiles": {
-    "ACME_GEO": {
+    "Backend": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7136;http://localhost:5078",
+      "applicationUrl": "https://localhost:7099;http://localhost:5285",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
